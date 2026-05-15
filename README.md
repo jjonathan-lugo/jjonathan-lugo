@@ -1,6 +1,6 @@
 ## Jonathan Lugo
-![233050_1349828](https://user-images.githubusercontent.com/63386979/170636410-12bef17a-ca4c-494b-8efa-5856f8fb9ee9.gif)
-
+[]https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h0eTQ4b3EycXpveHZoMm95OW16ODgwb2F6em56cG8wbXptaHUwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pLgom5kv8PLnG/giphy.gif
+&
 
 Here are some ideas to get you started:
 

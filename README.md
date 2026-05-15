@@ -1,6 +1,5 @@
 ## Jonathan Lugo
-<img scr="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRrM3gwanptaTNpemNoc3UxaXlzd21nMjlxdmUxNjNiNHZlZG05eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60q1K6mTzQQ1suxNfm/giphy.gif" width="200" alt="Image of Person on Computer">
-
+![Description of GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRrM3gwanptaTNpemNoc3UxaXlzd21nMjlxdmUxNjNiNHZlZG05eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60q1K6mTzQQ1suxNfm/giphy.gif)
 
 Here are some ideas to get you started:
 

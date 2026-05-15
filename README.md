@@ -1,5 +1,5 @@
 ## Jonathan Lugo
-![Description of GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRrM3gwanptaTNpemNoc3UxaXlzd21nMjlxdmUxNjNiNHZlZG05eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60q1K6mTzQQ1suxNfm/giphy.gif)
+![Person Looking at Computer Screen](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRrM3gwanptaTNpemNoc3UxaXlzd21nMjlxdmUxNjNiNHZlZG05eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60q1K6mTzQQ1suxNfm/giphy.gif)
 
 Here are some ideas to get you started:
 

@@ -5,9 +5,9 @@
 - 🧑🏻‍💻 Currently praying I get an Internship 🙏
 
 ## Hobbies
-- 📱 Recently started a new Instagram focusing on my tech journey and anything tech related
-- 🎵 I play the guitar and I like listen to Indie-Pop
-- 📕 Reading pyschology books
+- 📱 In the process of starting a new Instagram focusing on my tech journey and anything tech-related
+- 🎵 I play the guitar, and I like to listen to Indie-Pop
+- 📕 Reading psychology books
 - ⚙️ Learning new topics in tech
 
 
